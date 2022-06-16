@@ -1,0 +1,1 @@
+https://api.blockchair.com/bitcoin/transactions?a=date,count()

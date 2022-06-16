@@ -1,0 +1,10 @@
+{
+    "name": "Node.js",
+    "dockerFile": "Dockerfile",
+    "appPort": [3000],
+    "runArgs": ["-u", "node"],
+    "extensions": [
+		"ms-azuretools.vscode-docker",
+		"esbenp.prettier-vscode"
+	]
+}

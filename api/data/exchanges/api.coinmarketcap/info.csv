@@ -1,0 +1,453 @@
+id;name;website_url;weekly_visits;countries;fiats;blog_url;twitter_url;date_launched;status;
+16;Poloniex;https://poloniex.com;409755;;;;https://twitter.com/Poloniex;2014-01-10T00:00:00.000Z;active
+22;Bittrex;https://bittrex.com;286343;;USD;https://support.bittrex.com/hc/en-us/sections/360000567032-Blog;https://twitter.com/BittrexExchange;2014-02-13T00:00:00.000Z;active
+24;Kraken;https://www.kraken.com;2372787;;USD,EUR,GBP,CAD,JPY,CHF,AUD;https://blog.kraken.com/;https://twitter.com/krakenfx;2011-07-28T00:00:00.000Z;active
+32;Bleutrade;https://bleutrade.com;3509;;;;;2014-03-21T00:00:00.000Z;active
+34;Bittylicious;https://bittylicious.com;4527;;EUR,GBP;;;2013-05-22T00:00:00.000Z;active
+36;CEX.IO;https://cex.io;410730;;USD,EUR,GBP,RUB;http://blog.cex.io/;https://twitter.com/cex_io;2013-06-30T00:00:00.000Z;active
+37;Bitfinex;https://www.bitfinex.com;923184;;USD,EUR,GBP,JPY;http://blog.bitfinex.com/;https://twitter.com/bitfinex;2012-10-11T00:00:00.000Z;active
+42;HitBTC;https://hitbtc.com;363773;;USD,EUR,GBP,SGD,IDR;https://blog.hitbtc.com/;https://twitter.com/hitbtc;2013-12-01T00:00:00.000Z;active
+50;EXMO;https://exmo.me/;850338;CMC-EN-UK;USD,RUB,EUR,GBP,KZT,UAH;https://info.exmo.com/en/;https://twitter.com/Exmo_com;2015-04-05T00:00:00.000Z;active
+61;Okcoin;https://www.okcoin.com;202654;;USD,EUR;;https://twitter.com/OKCoin;2013-04-20T00:00:00.000Z;active
+68;Indodax;https://indodax.com/;2348812;ID;IDR;https://blog.indodax.com/;https://twitter.com/indodax;2014-02-15T00:00:00.000Z;active
+70;Bitstamp;https://www.bitstamp.net;580465;;USD,EUR,GBP;https://www.bitstamp.net/news/;https://twitter.com/Bitstamp;2011-07-04T00:00:00.000Z;active
+72;itBit;https://www.itbit.com;310;;USD;https://www.itbit.com/blog;;2013-01-01T00:00:00.000Z;active
+73;Zaif;https://zaif.jp;929459;;JPY;https://zaif.jp/news;;2014-05-28T00:00:00.000Z;active
+77;The Rock Trading;https://therocktrading.com;17650;;EUR,GBP;https://medium.com/the-rock-trading;https://twitter.com/therocktrading;2011-01-25T00:00:00.000Z;active
+80;CoinMate;https://coinmate.io;45264;;EUR,CZK;https://coinmate.io/news;;2013-12-12T00:00:00.000Z;active
+82;Zonda (BitBay);https://zondaglobal.com/;166601;EE;USD,EUR,GBP,PLN;https://steemit.com/@bitbay.net;https://twitter.com/zondaglobal;2014-02-01T00:00:00.000Z;active
+89;Coinbase Exchange;https://pro.coinbase.com;4373686;;USD,EUR,GBP;https://blog.coinbase.com/;https://twitter.com/CoinbasePro;2014-05-24T00:00:00.000Z;active
+95;Bitex.la;https://bitex.la;3568;;USD;https://blog.bitex.la/;;2013-12-29T00:00:00.000Z;active
+96;Bitonic;https://bitonic.nl;31314;;EUR;;https://twitter.com/bitonic;2012-03-09T00:00:00.000Z;active
+100;YoBit;https://yobit.net;412488;;;;https://twitter.com/YobitExchange;2014-08-25T00:00:00.000Z;active
+102;Huobi Global;https://www.huobi.com/;2666282;;ALL,AUD,BRL,BGN,CZK,CHF,DKK,EUR,GBP,HKD,HRK,HUF,KZT,MDL,MKD,NOK,NZD,PHP,PLN,SAR,SEK,THB,TRY,UAH,USD,RON,VND,CAD,RUB,ARS,AZN,CLP,COP,CRC,DOP,GEL,ILS,JPY,MAD,MXN,NAD,PEN,QAR,UYU,UZS,SGD,INR,KRW,TWD,IDR;;https://twitter.com/HuobiGlobal;2013-09-01T00:00:00.000Z;active
+104;LiteBit.eu;https://www.litebit.eu/;176857;;EUR;;;2013-12-04T00:00:00.000Z;active
+106;Coincheck;https://coincheck.com/;934279;;JPY;https://coincheck.blog/;https://twitter.com/coincheckjp;2012-08-28T00:00:00.000Z;active
+112;Liquid;https://www.liquid.com/;65755;;USD,JPY,EUR,SGD,AUD,HKD;https://blog.liquid.com/;https://twitter.com/Liquid_Global;2014-01-01T00:00:00.000Z;active
+121;SouthXchange;https://www.southxchange.com/;31506;;USD;;;2015-02-20T00:00:00.000Z;active
+125;Bitso;https://bitso.com;666741;;MXN,ARS;https://blog.bitso.com/;https://twitter.com/bitso;2014-05-17T00:00:00.000Z;active
+127;BTCBOX;https://www.btcbox.co.jp/;6014;;JPY;;;2014-03-06T00:00:00.000Z;active
+137;CoinCorner;https://www.coincorner.com/;14434;;GBP,EUR;http://blog.coincorner.com/;;2014-07-14T00:00:00.000Z;active
+139;bitFlyer;https://bitflyer.com/en-us/;872926;;USD,JPY,EUR;;https://twitter.com/bitFlyer;2014-01-09T00:00:00.000Z;active
+142;ISX;https://beta.isx.is;;;ISK;;;2016-06-02T00:00:00.000Z;active
+151;Gemini;https://gemini.com/;684051;;USD, GBP, EUR, HKD, SGD, AUD, CAD;https://gemini.com/blog;https://twitter.com/Gemini;2015-10-01T00:00:00.000Z;active
+154;Dex-Trade;https://dex-trade.com/;152051;;;https://dex-trade.com/news;https://twitter.com/dextrade_;2018-12-18T00:00:00.000Z;active
+155;Exrates;https://exrates.me/;3988;;;;https://twitter.com/Exrates_Me;2016-04-18T00:00:00.000Z;active
+157;BitMEX;https://www.bitmex.com/;996031;;;https://blog.bitmex.com/;https://twitter.com/BitMEXdotcom;2014-04-01T00:00:00.000Z;active
+166;Independent Reserve;https://www.independentreserve.com/;52361;;USD,AUD,NZD,SGD;;;2013-05-24T00:00:00.000Z;active
+171;Luno;https://www.luno.com/en/exchange;381361;;AUD,EUR,GBP,IDR,MYR,GNG,SGD,UGX,ZAR,ZMW;https://www.luno.com/blog/en/;;2017-02-11T00:00:00.000Z;active
+174;Coinone;https://coinone.co.kr/;641026;;KRW;;https://twitter.com/CoinoneOfficial;2014-06-11T00:00:00.000Z;active
+191;Bisq;https://bisq.network/;49586;;;https://bisq.network/blog/;https://twitter.com/bisq_network;2014-12-11T00:00:00.000Z;active
+194;Korbit;https://www.korbit.co.kr;80245;;KRW;;;2013-07-25T00:00:00.000Z;active
+200;Bithumb;https://www.bithumb.com/;1130397;;KRW;https://blog.naver.com/bithumb_official;https://twitter.com/BithumbOfficial;2014-01-01T00:00:00.000Z;active
+201;Lykke Exchange;https://trade.lykke.com/;2418;;USD,EUR,CHF,GBP;https://www.lykke.com/city/blog;https://twitter.com/lykke;2016-06-29T00:00:00.000Z;active
+209;Kuna;https://kuna.io;82488;;USD,RUB,UAH;https://investors.kuna.io/;https://twitter.com/KunaExchange;2016-03-12T00:00:00.000Z;active
+213;Mercatox;https://mercatox.com/;64151;;;;https://twitter.com/MercatoxCom;2015-10-12T00:00:00.000Z;active
+215;P2PB2B;https://p2pb2b.io/;339230;;;;https://twitter.com/p2pb2b;2018-01-01T00:00:00.000Z;active
+219;Tidex;https://tidex.com/;8530;;;https://medium.com/tidex;https://twitter.com/tidex_exchange;2017-10-18T00:00:00.000Z;active
+221;Heat Wallet;https://heatwallet.com/;295;;;;;2016-02-08T00:00:00.000Z;active
+223;FreiExchange;https://freiexchange.com/;54055;;;;https://twitter.com/fed_fab;2016-12-20T00:00:00.000Z;active
+224;BTC Markets;https://btcmarkets.net/;234847;;AUD;;https://twitter.com/BTCMarkets;2013-11-22T00:00:00.000Z;active
+225;Paribu;https://www.paribu.com/;1121517;;TRY;;https://twitter.com/paribucom;2017-02-14T00:00:00.000Z;active
+228;BTC-Alpha;https://btc-alpha.com/;172596;;USD,EUR;;;2016-03-01T00:00:00.000Z;active
+232;Coingi;https://coingi.com/;589;;USD,EUR,CZK;;https://twitter.com/coingi;2014-08-01T00:00:00.000Z;active
+234;RippleFox;https://ripplefox.com/;225;;;;;2014-05-01T00:00:00.000Z;active
+235;Gatehub;https://www.gatehub.net/;31042;;USD,EUR;http://blog.gatehub.net/;https://twitter.com/GateHub;2014-11-01T00:00:00.000Z;active
+242;COSS;https://www.coss.io/;2511;;;https://coss.io/news;https://twitter.com/cosscrypto;2017-04-01T00:00:00.000Z;active
+243;BtcTurk | Pro;https://pro.btcturk.com/;625147;;TRY;https://medium.com/@btcturk;https://twitter.com/btcturkpro;2013-07-02T00:00:00.000Z;active
+245;STEX;https://www.stex.com/;22042;;;;https://twitter.com/stexExchangeR;2017-09-01T00:00:00.000Z;active
+246;Waves Exchange;https://waves.exchange/;223961;;;;https://twitter.com/waves_exchange;2016-06-01T00:00:00.000Z;active
+248;Koinim;https://koinim.com/;9100;;TRY;http://blog.koinim.com/;;2013-04-01T00:00:00.000Z;active
+250;Buda;https://www.buda.com;166874;;CLP,COP,PEN,ARS;https://www.buda.com/blog/;https://twitter.com/BudaPuntoCom;2015-04-21T00:00:00.000Z;active
+252;BTC Trade UA;https://btc-trade.com.ua/;17923;;UAH;http://news.btc-trade.com.ua/;https://twitter.com/btc_trade_ua;2014-05-01T00:00:00.000Z;active
+253;LocalTrade;https://localtrade.cc/;85248;;;;https://twitter.com/LocaltradeC;2017-11-04T00:00:00.000Z;active
+257;Bitbank;https://bitbank.cc;318164;;JPY;https://blog.bitbank.cc/;https://twitter.com/bitbank_inc;2014-05-07T00:00:00.000Z;active
+258;Mercado Bitcoin;https://www.mercadobitcoin.com.br/;480919;;BRL;https://blog.mercadobitcoin.com.br/;https://twitter.com/MercadoBitcoin;2013-06-12T00:00:00.000Z;active
+261;Altcoin Trader;https://www.altcointrader.co.za/;317975;;ZAR;;https://twitter.com/AltCoinTraderSA;2014-07-01T00:00:00.000Z;active
+267;Bancor Network;https://www.bancor.network/;51044;;;https://blog.bancor.network/;https://twitter.com/bancor;2017-01-01T00:00:00.000Z;active
+270;Binance;https://www.binance.com/;34051317;;AED,ARS,AUD,AZN,BRL,CAD,CHF,CLP,COP,CZK,EGP,EUR,GBP,GHS,HKD,HRK,HUF,IDR,ILS,INR,ISK,JPY,KES,KRW,KZT,MXN,NGN,NOK,NZD,PEN,PHP,PLN,RON,RUB,SAR,SEK,SGD,THB,TRY,TWD,UAH,UGX,USD,UYU,VND,ZAR;;https://twitter.com/binance;2017-07-14T00:00:00.000Z;active
+278;Bits Blockchain;https://bitsblockchain.com/;188;;;;;2017-11-23T00:00:00.000Z;active
+280;Tidebit;https://www.tidebit.com/;1663;;HKD;;;2015-01-01T00:00:00.000Z;active
+290;CryptoMarket;https://www.cryptomkt.com/;135685;;CLP,ARS,BRL;https://noticias.cryptomkt.com;https://twitter.com/cryptomkt;2017-01-01T00:00:00.000Z;active
+294;OKX;https://www.okx.com/;42;SC;;;https://twitter.com/OKEx;2017-01-03T00:00:00.000Z;active
+302;Gate.io;https://gate.io/;7090018;;KRW,EUR;;https://twitter.com/gate_io;2013-01-01T00:00:00.000Z;active
+310;IDEX;https://idex.io;42800;;;https://medium.com/aurora-dao;https://twitter.com/idexio;2016-10-12T00:00:00.000Z;active
+311;KuCoin;https://www.kucoin.com;4250751;;USD,AED,ARS,AUD,AGN,BGN,BRL,CAD,CHF,CLP,COP,CRC,CZK,DKK,DOP,EUR,GBP,GEL,HKD,HUF,ILS,INR,JPY,KRW,KZT,MAD,MDL,MXN,MYR,NAD,NGN,NOK,NZD,PEN,PHP,PLN,QAR,RON,RUB,SEK,SGD,TRY,TWD,UAH,USD,UYU,UZS,ZAR;https://www.kucoin.com/blog/en_US;https://twitter.com/kucoincom;2017-08-13T00:00:00.000Z;active
+316;BitcoinTrade;https://www.bitcointrade.com.br/;23968;;BRL;;https://twitter.com/br_bitcointrade;2017-06-01T00:00:00.000Z;active
+317;TOPBTC;https://topbtc.one/;466;;;;https://twitter.com/topbtc_exchange;2016-12-17T00:00:00.000Z;active
+319;AEX;https://www.aex.com/;732237;;AUD,CAD,CZK,DKK,GBP,HKD,IDR,INR,MYR,NDK,NZD,PHP,PLN,RUB,SEK,SGD,THB,TRY,USD,VND;https://medium.com/@aexplus;https://twitter.com/aexplus;;active
+320;CoinFalcon;https://coinfalcon.com/;7578;;EUR;https://coinfalcon.com/blog/;https://twitter.com/coinfalcon;2017-05-28T00:00:00.000Z;active
+321;Coinut;https://coinut.com/;10903;;SGD;;https://twitter.com/coinut_exchange;2013-11-23T00:00:00.000Z;active
+325;Satang Pro;https://satangcorp.com/exchange/;118121;;THB;;https://twitter.com/satangcorp;2017-11-01T00:00:00.000Z;active
+326;ZB.COM;https://www.zb.com/;197815;;AED,CNY,RUB,UYU,USD,CAD,TWD,HUP,UZS,AUD,COP,NZD;https://www.zb.com/i/blog;https://twitter.com/Zb_group;2017-11-01T00:00:00.000Z;active
+330;BigONE;https://big.one/;563351;;;https://bigone.zendesk.com/hc/en-us/sections/115000476773-Latest-News;https://twitter.com/BigONEexchange;2017-06-24T00:00:00.000Z;active
+333;LBank;https://www.lbank.info/;1434880;;;https://medium.com/LBank;https://twitter.com/LBank_Exchange;2016-10-01T00:00:00.000Z;active
+335;GOPAX;https://www.gopax.co.kr;87660;;KRW;;;2017-06-14T00:00:00.000Z;active
+339;Bibox;https://www.bibox.com/;146264;;;https://www.linkedin.com/company/14405898;https://twitter.com/Bibox365;2017-11-01T00:00:00.000Z;active
+343;CoinBene;https://www.coinbene.com/;17375;;;;https://twitter.com/coinbene;2017-09-20T00:00:00.000Z;active
+350;CoinEx;https://www.coinex.com/;1029489;;;;https://twitter.com/coinexcom;2017-12-01T00:00:00.000Z;active
+351;Upbit;https://upbit.com/;3124629;;KRW;;https://twitter.com/upbitglobal;2017-10-24T00:00:00.000Z;active
+353;OTCBTC;https://otcbtc.com/;1264;;;https://medium.com/otcbtc;https://twitter.com/otcbtc;2017-10-01T00:00:00.000Z;active
+354;TradeOgre;https://tradeogre.com/;702249;;;;;2018-01-01T00:00:00.000Z;active
+360;C-Patex;https://c-patex.com/;10622;;;;https://twitter.com/c_patex;2014-11-01T00:00:00.000Z;active
+362;CRXzone;https://www.crxzone.com/;351;;USD,SGD;https://www.crxzone.com/company/news;https://twitter.com/crxzone;2014-04-01T00:00:00.000Z;active
+363;Fatbtc;https://www.fatbtc.com/;3980;;;;https://twitter.com/fatbtc;2014-05-01T00:00:00.000Z;active
+364;Paymium;https://www.paymium.com/;8272;;EUR;;https://twitter.com/paymium;2010-05-01T00:00:00.000Z;active
+367;DDEX;https://ddex.io/;1231;;;https://medium.com/ddex;https://twitter.com/ddexio2018;2017-12-12T00:00:00.000Z;active
+369;RuDEX;https://rudex.org/;595;;;;https://twitter.com/team_rudex;2017-04-18T00:00:00.000Z;active
+370;ZebPay;https://www.zebpay.com/;61932;;AUD,INR,SGD;;https://twitter.com/zebpay;2014-08-01T00:00:00.000Z;active
+376;Bitbns;https://bitbns.com/;187672;;INR;https://medium.com/bitbns;https://twitter.com/bitbns;2017-11-01T00:00:00.000Z;active
+378;Unocoin;https://www.unocoin.com/;21813;IN;;;https://twitter.com/unocoin;2011-09-01T00:00:00.000Z;active
+380;LATOKEN;https://latoken.com/;185995;;USD,EUR,GBP,SGD,IDR;https://medium.com/@latoken;https://twitter.com/latokens;2017-07-01T00:00:00.000Z;active
+382;Crex24;https://crex24.com/;268930;;;https://bitcointalk.org/index.php?topic=2101721.0;https://twitter.com/crex_24;2017-08-01T00:00:00.000Z;active
+384;Bithesap;https://www.bithesap.com/;1624;;TRY;;https://twitter.com/bithesapcom;2017-12-01T00:00:00.000Z;active
+385;Cryptonex;https://cryptonex.org;379;;USD,EUR,RUB,GBP,BRL;;https://twitter.com/Cryptonex_CNX;2017-10-01T00:00:00.000Z;active
+391;CoinTiger;https://www.cointiger.com;82083;;;;https://twitter.com/CoinTigerEX;2017-12-01T00:00:00.000Z;active
+392;B2BX;https://www.b2bx.exchange/;2327;;USD,EUR,GBP;https://www.b2bx.exchange/category/news/;https://twitter.com/b2bx_exchange;2018-01-01T00:00:00.000Z;active
+398;DragonEX;https://dragonex.io;8473;;;;https://twitter.com/Dragonex_io;2017-11-02T00:00:00.000Z;active
+400;Hotbit;https://www.hotbit.io/;1460107;;;;https://twitter.com/Hotbit_news;2018-01-14T00:00:00.000Z;active
+401;Switcheo Network;https://switcheo.network;71;;;;https://twitter.com/SwitcheoNetwork;2018-03-31T00:00:00.000Z;active
+402;Coinsuper;https://www.coinsuper.com/;226553;;;https://medium.com/coinsuper;https://twitter.com/Coinsuper_OFCL;2018-02-27T00:00:00.000Z;active
+403;BitForex;https://www.bitforex.com;480372;;;;https://twitter.com/bitforexcom;2018-06-01T00:00:00.000Z;active
+404;Kyber Network;https://kyber.network/;16704;;;;https://twitter.com/kybernetwork;2018-02-11T00:00:00.000Z;active
+405;Coindeal;https://coindeal.com/;9330;;;;https://twitter.com/CoinDeal_;2018-03-01T00:00:00.000Z;active
+406;BitMart;https://bitmart.com;959959;;USD,EUR;https://medium.com/@bitmart-exchange;https://twitter.com/BitMartExchange;2018-03-15T00:00:00.000Z;active
+407;DigiFinex;https://www.digifinex.com/;2395739;;;;https://twitter.com/digifinex;2018-04-01T00:00:00.000Z;active
+411;Tokenomy;https://tokenomy.com/;1450;;;https://medium.com/@tokenomy;https://twitter.com/tokenomy;2018-01-27T00:00:00.000Z;active
+415;Bilaxy;https://bilaxy.com/;94963;;;;;2018-04-24T00:00:00.000Z;active
+419;Graviex;https://graviex.net/;88708;;;;https://twitter.com/graviex_net;2018-02-06T00:00:00.000Z;active
+421;IDCM;https://www.idcm.io/;5642;;;https://www.idcm.io/news/announcement;https://twitter.com/idcmofficial;2018-04-02T00:00:00.000Z;active
+422;ABCC;https://abcc.com/;2659;;USD;;https://twitter.com/ABCCExOfficial;2018-04-28T00:00:00.000Z;active
+424;Hoo;https://hoo.com/;135788;;;https://medium.com/@Hoo_exchange;https://twitter.com/hoo_exchange;2018-05-18T00:00:00.000Z;active
+425;WazirX;https://wazirx.com/;2621501;;INR;https://blog.wazirx.com/;https://twitter.com/WazirXIndia;2018-03-08T00:00:00.000Z;active
+427;Bitfront;https://www.bitfront.me/;59325;;USD;https://linecorp.com/en/pr/news/global/;https://twitter.com/bitfront_global;2018-07-12T00:00:00.000Z;active
+430;ZBG;https://www.zbg.com/;13921;;;https://medium.com/@ZBGofficial;https://twitter.com/ZB_Global;2018-07-25T00:00:00.000Z;active
+433;Bitrue;https://www.bitrue.com/;485771;;;;https://twitter.com/BitrueOfficial;2018-07-20T00:00:00.000Z;active
+434;YunEx;https://yunex.io/;412;;;;https://twitter.com/YunEx_io;2018-01-01T00:00:00.000Z;active
+436;Bitkub;https://www.bitkub.com/;1316617;;THB;https://medium.com/bitkub/thai/home;https://twitter.com/bitkubofficial;2018-02-14T00:00:00.000Z;active
+438;Bgogo;https://bgogo.com/;1103;;;https://bgogohelp.zendesk.com/hc/en-us/categories/360000939012-Announcements;https://twitter.com/BgogoExchange;2018-05-28T00:00:00.000Z;active
+440;Cryptology;https://cryptology.com/;173339;;USD,EUR;https://blog.cryptology.com/;https://twitter.com/Cryptologyexch;2018-01-01T00:00:00.000Z;active
+442;Coinbit;https://www.coinbit.co.kr/;21465;;KRW;https://www.coinbit.co.kr/customer/main;https://twitter.com/coinbit_coinbit;2018-07-23T00:00:00.000Z;active
+443;GDAC;https://www.gdac.com;22279;;KRW;https://blog.naver.com/official_gdac;;2018-08-12T00:00:00.000Z;active
+446;TOKOK;https://www.tokok.com/;4321;;;https://www.weibo.com/tokokcom;https://twitter.com/tokokofficial;2018-06-30T00:00:00.000Z;active
+452;Coineal;https://www.coineal.com/;10983;;;;https://twitter.com/CoinealExchange;2018-04-23T00:00:00.000Z;active
+453;AscendEX (Bitmax);https://www.ascendex.com/;689478;;;https://medium.com/ascendex;https://twitter.com/AscendEX_Global;2018-07-01T00:00:00.000Z;active
+456;PoloniDEX;https://poloniex.org/;21879;;;;https://twitter.com/PoloniDEX;2018-12-01T00:00:00.000Z;active
+459;BW.com;https://www.bw.com/;30608;;;https://bwexchange.zendesk.com/hc/en-us;https://twitter.com/BWOfficial2;2017-01-01T00:00:00.000Z;active
+460;Coinsbit;https://coinsbit.io/;1092104;;USD,EUR;;https://twitter.com/c0insbit;2018-08-21T00:00:00.000Z;active
+463;Huobi Korea;https://www.huobi.co.kr/;1839;;KRW;;https://twitter.com/huobi_korea;2018-03-30T00:00:00.000Z;active
+468;OceanEx;https://oceanex.pro/;14296;;;https://medium.com/@OceanEx/;https://twitter.com/OceanexOfficial;2018-11-01T00:00:00.000Z;active
+477;ProBit Global;https://www.probit.com/en-us/;594675;;;https://medium.com/@ProBit_Exchange;https://twitter.com/ProBit_Exchange;2018-11-30T00:00:00.000Z;active
+478;BHEX (BlueHelix Exchange);https://www.bhex.com/;942;;;;https://twitter.com/BHEXOfficial;2018-12-03T00:00:00.000Z;active
+479;Dcoin;https://www.dcoin.com/;43423;;;https://medium.com/dcoin-exchange;https://twitter.com/dcoinexchange;2018-05-01T00:00:00.000Z;active
+480;Cat.Ex;https://www.catex.io/;30623;;;https://www.catex.io/announcement;https://twitter.com/catexofficial;2018-08-13T00:00:00.000Z;active
+481;Alterdice;https://alterdice.com/;8329;;;https://alterdice.com/news;https://twitter.com/AlterdiceSocial;2018-10-22T00:00:00.000Z;active
+482;BKEX;https://www.bkex.com/;435891;;;;https://twitter.com/BKEXGlobal;2018-06-01T00:00:00.000Z;active
+483;Hanbitco;https://www.hanbitco.com/;2911;;;https://medium.com/@hanbitco.com;https://twitter.com/HanbitcoKr;2017-11-01T00:00:00.000Z;active
+485;CoinField;https://www.coinfield.com/;18787;;;https://coinfield.com/company/crypto-currency-exchange;https://twitter.com/CoinFieldEx;2018-01-01T00:00:00.000Z;active
+486;Binance DEX;https://www.binance.org/en;505446;;;;https://twitter.com/BinanceChain;2019-02-20T00:00:00.000Z;active
+487;VinDAX;https://vindax.com/;67359;;;https://medium.com/@VindaxExchange;https://twitter.com/VinDAXOfficial;2019-03-08T00:00:00.000Z;active
+488;CoinMetro;https://coinmetro.com/;83700;;USD,EUR,GBP,AUD;https://coinmetro.com/blog/;https://twitter.com/CoinMetro;2017-12-04T00:00:00.000Z;active
+489;BitGlobal;https://www.bitglobal.com/;53715;;RUB,TRY;https://medium.com/@bithumbglobal;https://twitter.com/BithumbGlobal;2019-05-14T00:00:00.000Z;active
+491;SafeTrade;https://www.safe.trade/;11395;;;;https://twitter.com/safetradeex;;active
+492;VELIC;https://www.velic.io/;408;;;https://medium.com/velicfinancial;https://twitter.com/velicfinancial;2018-10-01T00:00:00.000Z;active
+495;Folgory;https://folgory.com/;126374;;;;https://twitter.com/Folgory1;2019-01-24T00:00:00.000Z;active
+496;Exnomy;https://www.exnomy.com/;207;;;;https://twitter.com/exnomy;2018-06-01T00:00:00.000Z;active
+497;BiONE;https://www.bione.info/;27;;;;https://twitter.com/BioneExchange;2018-05-01T00:00:00.000Z;active
+498;Polyx;https://polyx.net;66719;;USD,EUR,RUB;https://polyx.net/en/blog;https://twitter.com/Polyxchange;2018-11-01T00:00:00.000Z;active
+500;Tokenize Xchange;https://tokenize.exchange/;60312;;;https://blog.tokenize.exchange/;https://twitter.com/TokenizeXchange;2018-02-01T00:00:00.000Z;active
+501;WhiteBIT;https://whitebit.com;2724950;;USD,EUR,GBP;https://medium.com/whitebit;https://twitter.com/whitebit;2018-12-01T00:00:00.000Z;active
+503;Birake Network;https://birake.com/;1660;;;https://medium.com/@birakecom;https://twitter.com/birakecom;2018-12-27T00:00:00.000Z;active
+504;ZG.com;https://www.zg.com/;42709;;;https://medium.com/@gaotony;https://twitter.com/ZGexchange;2018-07-01T00:00:00.000Z;active
+505;CBX;https://www.cbx.one/;608;;;;https://twitter.com/cbx_one;2018-11-11T00:00:00.000Z;active
+506;ChainX;https://chainx.kr/;318;;KRW;;https://twitter.com/chainxofficial;2019-03-01T00:00:00.000Z;active
+513;Bitget;https://www.bitget.com;365366;SG;USD,EUR,GBP,RUB,JPY,UAH,TRY,HKD,THB,VND,IDR,MYR,SGD,PHP,INR;https://weibo.com/bitget;https://twitter.com/bitgetglobal;2018-04-05T00:00:00.000Z;active
+514;Finexbox;https://www.finexbox.com/;43032;;;https://medium.com/@FinexBox.com;https://twitter.com/finexbox;2018-05-19T00:00:00.000Z;active
+516;dYdX;https://trade.dydx.exchange/;95816;;;https://dydx.exchange/blog;https://twitter.com/dydxprotocol;2019-04-17T00:00:00.000Z;active
+517;CoinW;https://www.coinw.com/;176780;;;https://medium.com/@CoinW_Exchange;https://twitter.com/Coinw_exchange;2017-07-01T00:00:00.000Z;active
+518;Triv Pro;https://tpro.co.id/;4221;;;http://blog.triv.co.id/;;2019-02-15T00:00:00.000Z;active
+520;Bitvavo;https://bitvavo.com/en;768952;;EUR;https://blog.bitvavo.com/;https://twitter.com/bitvavocom;2019-03-08T00:00:00.000Z;active
+521;Bybit;http://www.bybit.com/;3621099;;USD, EUR, GBP, AUD, CAD, AED;https://blog.bybit.com/;https://twitter.com/Bybit_Official;2018-03-01T00:00:00.000Z;active
+522;Deribit;https://www.deribit.com/;130045;;;https://medium.com/deribitofficial;https://twitter.com/DeribitExchange;2016-06-01T00:00:00.000Z;active
+523;Beaxy;https://www.beaxy.com/;1929;;;https://medium.com/beaxy-exchange;https://twitter.com/BeaxyExchange;2019-06-10T00:00:00.000Z;active
+524;FTX;https://ftx.com/;5474846;;USD,EUR,GBP,AUD,HKD,SGD,ZAR,CAD,CHF,BRL;;https://twitter.com/FTX_Official;2019-02-25T00:00:00.000Z;active
+525;XT.COM;https://www.xt.com/;627599;;AUD,GBP,USD,EUR,CAD,HKD,RUB;https://weibo.com/u/6411407056?is_hot=1;https://twitter.com/XTexchange;2018-10-01T00:00:00.000Z;active
+531;BTC-exchange;https://www.btc-exchange.com/;2544;;EUR;;;2013-12-19T00:00:00.000Z;active
+533;BITEXBOOK;https://bitexbook.com/;12966;;USD,RUB,UAH;;https://twitter.com/bitexbook;2018-01-01T00:00:00.000Z;active
+535;ExMarkets;https://exmarkets.com/;189716;;EUR;https://medium.com/@exmarkets;https://twitter.com/ex_markets;2018-09-01T00:00:00.000Z;active
+537;Virtuse Exchange;https://www.virtuse.com/;466;;;https://medium.com/virtuseexchange;https://twitter.com/VirtuseExchange;2019-05-15T00:00:00.000Z;active
+538;CoinFLEX;https://coinflex.com/;23409;;;https://medium.com/coinflex-official;https://twitter.com/coinflexdotcom;2019-04-15T00:00:00.000Z;active
+544;MEXC;https://www.mexc.com/;1542307;;;https://t.me/MEXCEnglish;https://twitter.com/MEXC_Global;2018-04-07T00:00:00.000Z;active
+549;CITEX;www.citex.info;1909;;;;https://twitter.com/Citexofficial;2018-10-30T00:00:00.000Z;active
+553;LOEx;https://www.loex.io/index;207;;;https://weibo.com/6870211274/profile?topnav=1&wvr=6&sudaref=www.loex.io&display=0&retcode=6102&is_all=1;https://twitter.com/LoexGlobal;2019-01-12T00:00:00.000Z;active
+554;Globitex;https://globitex.com;634;;EUR;;https://twitter.com/globitex_;2017-05-12T00:00:00.000Z;active
+561;PayBito;https://www.paybito.com;2282;;USD;https://www.hashcashconsultants.com/media/;https://twitter.com/paybito;2018-06-12T00:00:00.000Z;active
+562;Txbit;https://txbit.io/;24565;;;https://medium.com/@txbit/;https://twitter.com/txbit_io;2019-01-31T00:00:00.000Z;active
+564;SecondBTC;https://secondbtc.com/;215;;;https://secondbtc.com/info/;https://twitter.com/secondbtcex;2018-06-15T00:00:00.000Z;active
+568;CROSS exchange;https://www.crossexchange.io/;16179;;;https://en.coinmarket.media/;https://twitter.com/exchange_cross;2018-11-25T00:00:00.000Z;active
+574;WBF Exchange;https://wbfex.com;927;;;https://medium.com/@WBFex;https://twitter.com/wbfex;2018-11-11T00:00:00.000Z;active
+577;Serenity;https://serenity.exchange/;317;;;https://medium.com/@Serenity_financial;https://twitter.com/serenity_io;2019-05-08T00:00:00.000Z;active
+583;BaseFEX;https://www.basefex.com/;791;;;https://blog.basefex.com/?lang=en;https://twitter.com/BaseFEX;2018-12-26T00:00:00.000Z;active
+585;BITStorage;https://bitstorage.finance/;512;;;;https://twitter.com/BitstorageF;2018-03-05T00:00:00.000Z;active
+587;IndoEx;https://international.indoex.io/;140635;;;https://international.indoex.io/blog;https://twitter.com/Indoex_LTD;2019-01-16T00:00:00.000Z;active
+594;Bitci;https://www.bitci.com/;122477;;TRY;https://wiki.bitci.com/;https://twitter.com/bitcicom;2018-08-18T00:00:00.000Z;active
+597;Bitpanda Pro;https://www.bitpanda.com/en/pro;437613;;EUR,CHF,TRY,GBP;;https://twitter.com/BitpandaPro;2019-08-07T00:00:00.000Z;active
+599;BankCEX;https://bankcex.com/;10193;;;;https://twitter.com/BankCexExchange;2018-12-01T00:00:00.000Z;active
+601;Bithumb Singapore;https://www.bithumbsg.com/;239;;;;https://twitter.com/bithumbsg;2019-08-09T00:00:00.000Z;active
+603;50x;https://trade.50x.com/;8609;;;;https://twitter.com/50x_com;2018-10-25T00:00:00.000Z;active
+613;Bitvast;https://www.bitvast.com/;126;;;https://medium.com/@bitvast;https://twitter.com/BITVAST;2018-12-07T00:00:00.000Z;active
+622;NovaDAX;http://www.novadax.com.br/;156290;;BRL,EUR;https://blog.novadax.com/;https://twitter.com/Nova_DAX;2018-10-30T00:00:00.000Z;active
+625;qTrade;https://qtrade.io/;18034;;;;https://twitter.com/qTradeio;2018-04-01T00:00:00.000Z;active
+629;Ecxx;https://www.ecxx.com/;347;;;https://blog.ecxx.com/;https://twitter.com/ecxx_official;2019-03-21T00:00:00.000Z;active
+630;Binance.US;https://www.binance.us/en;1112895;;USD;;https://twitter.com/binanceUS;2019-09-19T00:00:00.000Z;active
+633;Mandala Exchange;https://trade.mandala.exchange/;51156;;;https://medium.com/mandalaex;https://twitter.com/mandalaex;2020-11-16T00:00:00.000Z;active
+636;Bitsten;https://exchange.bitsten.com;356;;;https://help.bitsten.com/en/;https://twitter.com/BitstenToken;2018-05-31T00:00:00.000Z;active
+638;Paritex;https://www.paritex.com;972;;TRY;https://paritex.medium.com/;https://twitter.com/paritexexchange;2019-03-01T00:00:00.000Z;active
+641;EXIR;https://www.exir.io/;11302;;IRT;https://www.exir.io/cats/blog/;https://twitter.com/EXIR_Official;2017-02-22T00:00:00.000Z;active
+643;Coinzo;https://www.coinzo.com/;11669;;TRY;https://medium.com/@coinzocom;https://twitter.com/coinzocom;2018-11-06T00:00:00.000Z;active
+644;FOBLGATE;https://www.foblgate.com/;3679;;;;https://twitter.com/fobl_official;2019-07-08T00:00:00.000Z;active
+645;BitUBU;https://bitubu.com/;620;;;https://medium.com/@BitubuExchange;https://twitter.com/BitubuExchange;2019-07-17T00:00:00.000Z;active
+647;Artis Turba;https://artisturba.com/;377;;ZAR;https://medium.com/artisturba;https://twitter.com/artisturba;2018-09-17T00:00:00.000Z;active
+653;BITEXLIVE;https://bitexlive.com/;1450;;;;https://twitter.com/bitexlive;2017-06-30T00:00:00.000Z;active
+655;TimeX;https://timex.io/;7125;AU;USD,AUD;https://timex.io/blog;https://twitter.com/ExchangeTimex;2019-07-07T00:00:00.000Z;active
+656;Omgfin;https://omgfin.com/;5591;;;https://medium.com/@omgfin;https://twitter.com/omgfin;2018-10-10T00:00:00.000Z;active
+657;CoinJar;https://www.coinjar.com/;31765;;AUD,GBP;https://blog.coinjar.com/;https://twitter.com/getcoinjar;2013-05-22T00:00:00.000Z;active
+658;BTSE;https://www.btse.com/en/home;10014;;USD,EUR,GBP,HKD,SGD,JPY,AUD,AED,CAD;;https://twitter.com/btsecom;2018-09-20T00:00:00.000Z;active
+665;BitClude;https://bitclude.com/;11140;;PLN,GBP;;https://twitter.com/BitClude;2019-02-11T00:00:00.000Z;active
+674;BQT;http://bqtx.com/;256;;;https://medium.com/@BQT;https://twitter.com/bqt_ico;2019-05-01T00:00:00.000Z;active
+687;TronTrade;https://trontrade.io/;6366;;;;https://twitter.com/trontrade;;active
+699;Currency.com;https://currency.com/;548192;;USD,EUR,RUB,BYN;;https://twitter.com/CurrencyCom;2019-01-15T00:00:00.000Z;active
+702;Newdex;https://newdex.io/;11820;;;;https://twitter.com/NewdexOfficial;2018-08-08T00:00:00.000Z;active
+705;Delta Exchange;https://www.delta.exchange/;99080;;;;https://twitter.com/Delta_Exchange;2018-08-01T00:00:00.000Z;active
+710;Tokocrypto;https://www.tokocrypto.com/;355011;ID;IDR;;https://twitter.com/tokocrypto;2018-06-01T00:00:00.000Z;active
+717;BitoPro;https://www.bitopro.com/;79038;;TWD;;https://twitter.com/BitoEX_Official;2018-03-07T00:00:00.000Z;active
+723;Rekeningku.com;https://www.rekeningku.com;84736;;IDR;;https://twitter.com/Rekeningkucom;2018-01-18T00:00:00.000Z;active
+731;Emirex;http://emirex.com/;6453;;AED,USD,EUR;https://medium.com/@EMIREX_OFFICIAL;https://twitter.com/EMIREX_OFFICIAL;2019-09-10T00:00:00.000Z;active
+733;VCC Exchange;https://vcc.exchange/;1775;;;https://medium.com/@vccexchange;https://twitter.com/VCCExchange;2019-05-19T00:00:00.000Z;active
+738;Dove Wallet;https://dovewallet.com/;48217;;KRW;https://medium.com/dovewallet-en;https://twitter.com/dovewallet_en;2019-02-25T00:00:00.000Z;active
+741;ACE;https://www.ace.io/home;13618;TW;;https://medium.com/ace-exchange;https://twitter.com/ACE_exchange;2018-11-10T00:00:00.000Z;active
+756;ViteX;https://vitex.net/;4129;;;https://medium.com/vitelabs;https://twitter.com/ViteXExchange;2019-07-30T00:00:00.000Z;active
+766;ATAIX;https://ataix.com/;18120;;;https://ataix.com/news-blog;https://twitter.com/ataixcom;2018-03-22T00:00:00.000Z;active
+790;Pionex;https://www.pionex.com/;550220;;;https://medium.com/pionex;https://twitter.com/pionex_com;2019-06-24T00:00:00.000Z;active
+792;Bitbuy;https://bitbuy.ca/;68735;;CAD;https://bitbuy.ca/en/resources;https://twitter.com/bitbuy;2019-04-01T00:00:00.000Z;active
+802;digitalexchange.id;https://digitalexchange.id/market;5357;;IDR;https://medium.com/@digitalexchangeid;https://twitter.com/digiexchangeid;2019-06-28T00:00:00.000Z;active
+806;Xcalibra;https://xcalibra.com/;384;;;https://xcalibra.com/blog;https://twitter.com/tradexcalibra;2019-08-26T00:00:00.000Z;active
+818;Decoin;https://www.decoin.io/;26990;;;https://medium.com/@DECOIN;https://twitter.com/decoin_io;2019-04-29T00:00:00.000Z;active
+834;Nominex;https://nominex.io/;94686;;;https://nominex.io/blog/;https://twitter.com/NominexExchange;2019-08-28T00:00:00.000Z;active
+835;Prizmbit;https://prizmbit.com/;4389;;USD,RUB;https://t.me/prizmbitnews;https://twitter.com/prizmbit;2018-12-31T00:00:00.000Z;active
+844;NiceHash;https://www.nicehash.com;7424163;;;https://blog.nicehash.com/;https://twitter.com/NiceHashMining;2019-08-04T00:00:00.000Z;active
+853;AAX;https://www.aax.com/en-US/;498678;;USD,HKD,CNH,EUR,GBP,SGD,AUD,CAD,NZD,JPY,CHF;https://blog.aax.com/en/;https://twitter.com/AAXExchange;2019-09-16T00:00:00.000Z;active
+856;Tokenlon;https://tokenlon.im/instant;2708;;;;https://twitter.com/tokenlon;2019-07-29T00:00:00.000Z;active
+857;FMFW.io;https://fmfw.io/;29775;;;;https://twitter.com/fmfw_io;2008-01-01T00:00:00.000Z;active
+863;StakeCube;https://stakecube.net/app/exchange/;304400;;;;https://twitter.com/stakecube;2019-05-13T00:00:00.000Z;active
+865;TOKENCAN;https://www.tokencan.com;677;;;;https://twitter.com/Tokencan;2017-12-11T00:00:00.000Z;active
+868;MAX Exchange;https://max.maicoin.com;183930;;TWD;;https://twitter.com/MAX_exch;2018-02-25T00:00:00.000Z;active
+889;Crypterum;https://app.crypterum.com/?lang=en;236;;RUB,USD,EUR;https://vk.com/crypterumcom;https://twitter.com/crypterumcom;2018-04-27T00:00:00.000Z;active
+890;Bitay;https://www.bitay.com/en;44254;;TRY,USD,EUR,INR;;https://twitter.com/BitayGlobal;2018-12-28T00:00:00.000Z;active
+904;eToroX;https://www.etoro.com/crypto/exchange/;16331820;;USD;https://medium.com/@etorox;https://twitter.com/etorox;2019-04-15T00:00:00.000Z;active
+908;VALR;https://www.valr.com;31590;;ZAR;;https://twitter.com/valrdotcom;2019-03-01T00:00:00.000Z;active
+922;StormGain;https://stormgain.com;317947;;;https://stormgain.com/news;https://twitter.com/StormGain_com;2019-07-01T00:00:00.000Z;active
+925;Namebase;https://namebase.io;60697;;;https://namebase.io/blog;https://twitter.com/NamebaseHQ;2020-02-03T00:00:00.000Z;active
+937;Biconomy Exchange;https://www.biconomy.com/;18503;;;https://biconomyexchange.medium.com/;https://twitter.com/Biconomy_Global;2019-10-01T00:00:00.000Z;active
+943;Hotcoin Global;https://www.hotcoin.com/;247;;;;https://twitter.com/HotcoinGlobal;2017-11-17T00:00:00.000Z;active
+949;CoinDCX;https://coindcx.com;695589;;INR;https://blog.coindcx.com/;https://twitter.com/coindcx;2018-04-07T00:00:00.000Z;active
+955;Phemex;https://phemex.com/;411004;;;https://phemex.com/blogs;https://twitter.com/Phemex_official;2019-11-25T00:00:00.000Z;active
+958;FarhadMarket;https://app.farhadmarket.com/;1417;;IRR;https://farhadmarket.com/blog/;https://twitter.com/farhadmarket;2019-06-06T00:00:00.000Z;active
+966;Resfinex;https://resfinex.com/;270;;;https://medium.com/@resfinex;https://twitter.com/resfinex;;active
+983;Loopring Exchange;http://loopring.io/;84056;;;https://medium.com/loopring-protocol;https://twitter.com/loopringorg;2020-02-27T00:00:00.000Z;active
+987;Bitribe;https://www.bitribe.com;631;;;;https://twitter.com/Bitribeofficial;2019-10-01T00:00:00.000Z;active
+988;Huobi Japan;https://www.huobi.co.jp/;32460;JP;;https://blog.huobi.jp/;https://twitter.com/huobijapan;;active
+997;Chiliz;https://www.chiliz.net/;93440;;;https://www.medium.com/chiliz/;https://twitter.com/chiliz;2020-04-15T00:00:00.000Z;active
+1009;Giottus;https://www.giottus.com/tradeview;136463;;INR;https://medium.com/@Giottus;https://twitter.com/giottus;2018-04-14T00:00:00.000Z;active
+1011;Coinlist Pro;https://pro.coinlist.co;134097;;USD;https://blog.coinlist.co/;https://twitter.com/coinlist;2020-07-28T00:00:00.000Z;active
+1012;Felixo;https://www.felixo.com/;7370;;;https://blog.felixo.com/;https://twitter.com/felixoexchange;2018-10-30T00:00:00.000Z;active
+1019;BitTurk;https://bitturk.com;4052;;;https://blog.bitturk.com;https://twitter.com/bitturkcom;2017-09-24T00:00:00.000Z;active
+1029;CoinZoom;https://www.coinzoom.com;9685;;;https://medium.com/getcoinzoom/coinzoom-the-essentials-d1e610377081;https://twitter.com/GetCoinZoom;2020-03-01T00:00:00.000Z;active
+1037;Flybit;https://flybit.com/;7267;KR;;;;;active
+1044;Compound;https://compound.finance/markets;80866;;;;https://twitter.com/compoundfinance;2019-05-23T00:00:00.000Z;active
+1049;GokuMarket;https://gokumarket.com/;148878;;EUR,USD,GBP;https://medium.com/gokumarket;https://twitter.com/GokuMarket;2020-02-15T00:00:00.000Z;active
+1052;1inch Exchange;https://1inch.io/;90447;;;https://blog.1inch.io/;https://twitter.com/1inch;2019-03-22T00:00:00.000Z;active
+1057;DeversiFi;https://app.deversifi.com/;24536;;;https://blog.deversifi.com/;https://twitter.com/deversifi;2020-06-03T00:00:00.000Z;active
+1062;Balancer;https://balancer.finance/;6304;;;https://balancer.finance/blog-feed/;https://twitter.com/BalancerLabs;;active
+1063;Curve Finance;https://www.curve.fi/;175045;;;;https://twitter.com/CurveFinance;2020-01-01T00:00:00.000Z;active
+1064;BingX;https://www.bingx.com/en-us/;166464;;;https://medium.com/@BingXOfficial;https://twitter.com/BingXOfficial;2018-05-01T00:00:00.000Z;active
+1066;CoinCasso;https://coincasso.com;8102;;EUR,PLN;https://coincasso.com/news/;https://twitter.com/CoinCasso;2019-09-12T00:00:00.000Z;active
+1069;Uniswap (V2);https://uniswap.org/;944818;;;https://uniswap.org/blog/;https://twitter.com/UniswapProtocol;2018-11-01T00:00:00.000Z;active
+1070;Nash;https://app.nash.io/trade/markets/asset-pairs;2166;;;https://blog.nash.io/;https://twitter.com/nashsocial;2019-09-09T00:00:00.000Z;active
+1071;APROBIT;https://www.aprobit.com/;1289;;;;https://twitter.com/AprobitOfficial;2020-06-01T00:00:00.000Z;active
+1075;CrossTower;https://crosstower.com/;8832;;;https://medium.com/@crosstower;https://twitter.com/crosstower_ex;;active
+1084;Kwenta;https://kwenta.io/;13256;;;https://blog.kwenta.io/;https://twitter.com/@kwenta_io;2018-12-01T00:00:00.000Z;active
+1085;Zipmex;https://zipmex.com/;219187;;THB,SGD,AUD,USD,IDR;https://zipmex.com;https://twitter.com/zipmex;2019-09-18T00:00:00.000Z;active
+1091;Narkasa;https://narkasa.com/;527;;TRY;https://medium.com/@narkasacom;https://twitter.com/narkasacom;2020-07-01T00:00:00.000Z;active
+1100;Ripio;https://exchange.ripio.com/app/trade/;19285;;;;https://twitter.com/ripioapp;2019-04-09T00:00:00.000Z;active
+1101;Polkaswap;https://polkaswap.io/;19997;;;https://medium.com/@polkaswap;https://twitter.com/polkaswap;;active
+1102;Mooniswap;https://mooniswap.exchange/#/swap;4700;;;;https://twitter.com/mooniswap;2020-08-10T00:00:00.000Z;active
+1103;Nexus Mutual;https://nexusmutual.io/;21520;;;https://medium.com/nexus-mutual;https://twitter.com/NexusMutual;;active
+1106;Aave;https://aave.com/;267173;;;;https://twitter.com/aaveaave;;active
+1112;KickEX;https://kickex.com;18826;;EUR,USD,RUB,GBP,UAH,TRY;https://medium.com/@kickecosystem;https://twitter.com/kickexcom;2020-05-25T00:00:00.000Z;active
+1113;Cybex DEX;https://dex.cybex.io/;201;;;;https://twitter.com/cybexexchange;;active
+1115;TokenSets;https://www.tokensets.com/;66150;;;https://medium.com/set-protocol;https://twitter.com/SetProtocol;;active
+1116;SunSwap;https://sunswap.com/;114668;;;;https://twitter.com/defi_sunio;2020-08-18T00:00:00.000Z;active
+1117;Azbit;https://azbit.com/exchange;178252;;;https://medium.com/azbit-news;https://twitter.com/azbit_news;2019-12-28T00:00:00.000Z;active
+1124;Bitazza;https://www.bitazza.com/;83686;TH;THB;;https://twitter.com/bitazzaofficial;;active
+1128;Changelly PRO;https://pro.changelly.com/market-overview/overview;7710;;;https://changelly.com/blog/;https://twitter.com/changelly_team;2020-07-06T00:00:00.000Z;active
+1129;EQONEX;https://eqonex.com;32547;;;;https://twitter.com/eqonex;2020-05-26T00:00:00.000Z;active
+1131;Bitcoiva;https://www.bitcoiva.com/markets;40772;;;;;2020-06-10T00:00:00.000Z;active
+1132;Valuex;https://valuex.cc/en-us;378;;;;https://twitter.com/valuexcc;2020-07-06T00:00:00.000Z;active
+1133;Mexo Exchange;https://www.mexo.io;7704;;;https://medium.com/@Mexoio;https://twitter.com/mexo_io;2020-07-01T00:00:00.000Z;active
+1138;Bitexen;https://www.bitexen.com/;103905;TR;TRY;;https://twitter.com/Bitexencom;2018-05-04T00:00:00.000Z;active
+1140;Serum DEX;https://docs.projectserum.com/;8638;;;;https://twitter.com/ProjectSerum;2020-08-30T00:00:00.000Z;active
+1141;SushiSwap;https://app.sushi.com/swap;622088;;;;https://twitter.com/sushiswap;2020-09-12T00:00:00.000Z;active
+1145;Koinbazar;http://koinbazar.com/;176706;IN;INR;;https://twitter.com/koinbazar;2020-09-16T00:00:00.000Z;active
+1149;Crypto.com Exchange;https://crypto.com/exchange;3470032;;;https://blog.crypto.com/;https://twitter.com/cryptocom;2019-11-19T00:00:00.000Z;active
+1152;SINEGY Marketplace;https://marketplace.sinegy.com/exchange/;2282;;MYR;https://blog.sinegy.com/home;https://twitter.com/SinegyCo;2020-04-08T00:00:00.000Z;active
+1154;Dsdaq;https://www.dsdaq.com;391;;;https://medium.com/@dsdaq;https://twitter.com/DsdaqCom;2019-12-24T00:00:00.000Z;active
+1159;Paraswap;https://paraswap.io/#/;296627;;;;https://twitter.com/paraswap;;active
+1161;Bit.com;https://www.bit.com;9481;;;https://medium.com/@bitcom_exchange;https://twitter.com/bitcom_exchange;2020-08-03T00:00:00.000Z;active
+1162;BitClover (Hotbit Korea);https://www.bitclover.io/;6219;KR;;https://medium.com/bitclover;https://twitter.com/Bit_Clover;2020-06-10T00:00:00.000Z;active
+1165;PancakeSwap;https://pancakeswap.finance/;6844416;;;;https://twitter.com/pancakeswap;2020-09-27T00:00:00.000Z;active
+1175;SashimiSwap;https://info.sashimi.cool/pairs;155;;;https://medium.com/sashimisashimi;https://twitter.com/SASHIMISASHIMI5;2020-09-11T00:00:00.000Z;active
+1177;FTX US;https://ftx.us/;1262077;;USD;;https://twitter.com/ftx_us;2020-03-31T00:00:00.000Z;active
+1179;ACDX;https://trade.acdx.io/;1679;;;https://medium.com/acdx;https://twitter.com/acdx_io;2020-09-29T00:00:00.000Z;active
+1180;Aryana;https://www.aryana.io/;395;;;https://medium.com/@Aryacoin;https://twitter.com/AryacoinAYA;2020-07-28T00:00:00.000Z;active
+1182;Deepcoin;https://www.deepcoin.com/cmc;235901;;;https://note.com/deepcoinjp;https://twitter.com/Deepcoin_global;2018-11-11T00:00:00.000Z;active
+1184;MOV;https://supertx.bymov.io/swap;297;;;https://medium.com/bytomofficial;https://twitter.com/MOV_Network;2020-03-30T00:00:00.000Z;active
+1186;BitWell;https://www.bitwellex.com/;145072;;;https://www.bitwellex.com/article/en/;https://twitter.com/BitwellGlobal;2020-04-06T00:00:00.000Z;active
+1187;DODO (Ethereum);https://dodoex.io/;51205;;;https://medium.com/@dodo.in.the.zoo;https://twitter.com/BreederDodo;2020-09-29T00:00:00.000Z;active
+1190;Honeyswap;https://app.honeyswap.org/#/swap;19083;;;;https://twitter.com/Honeyswap;2020-07-02T00:00:00.000Z;active
+1196;JulSwap;https://julswap.com;10860;;;;https://twitter.com/JulSwap;2020-09-27T00:00:00.000Z;active
+1206;LuaSwap;https://app.luaswap.org;15720;;;https://medium.com/luaswap;https://twitter.com/LuaSwap;2020-10-28T00:00:00.000Z;active
+1208;Bvnex;https://www.bvnex.com/;670;Vietnam;;https://blog.bvnex.com/blog/;https://twitter.com/Bvnexcom;2019-08-09T00:00:00.000Z;active
+1212;BEPSwap;https://chaosnet.bepswap.com;415;;;;https://twitter.com/thorchain_org;2020-08-31T00:00:00.000Z;active
+1213;Mento;https://mento.finance/;4431;;;;https://twitter.com/celoorg;2020-06-22T00:00:00.000Z;active
+1226;bit4you;https://www.bit4you.io/our-markets;13189;;;https://medium.com/@bit4you;https://twitter.com/bit4you1;2018-03-05T00:00:00.000Z;active
+1234;Venus;https://app.venus.io;87349;;;https://medium.com/VenusProtocol;https://twitter.com/VenusProtocol;2020-11-16T00:00:00.000Z;active
+1235;DeFiChain DEX;https://dex.defichain.com/mainnet/pool;4435;;;https://defichain.ghost.io/;https://twitter.com/defichain;2020-11-29T00:00:00.000Z;active
+1236;KULAP;https://swap.kulap.io;880;;;https://medium.com/kulapofficial;https://twitter.com/kulapofficial;2021-01-10T00:00:00.000Z;active
+1240;Demex;https://app.dem.exchange;7615;;;https://blog.switcheo.network;https://twitter.com/demexchange;2020-12-15T00:00:00.000Z;active
+1243;LINKSWAP;https://linkswap.app/#/swap;623;;;http://www.blog.yflink.io;https://twitter.com/yflinkio;2020-12-05T00:00:00.000Z;active
+1254;Blockchain.com;https://blockchain.com/;1242086;;USD,EUR,GBP,TRY;https://blockchain.medium.com/;https://twitter.com/blockchain;2019-08-01T00:00:00.000Z;active
+1255;Block DX;https://blockdx.net/;1245;;;;https://twitter.com/BlockDXExchange;2018-12-31T00:00:00.000Z;active
+1259;Terraswap;https://terraswap.io/;54757;;;https://mirror-protocol.medium.com;https://twitter.com/terraswap_io;2020-11-12T00:00:00.000Z;active
+1261;OpenOcean;https://openocean.finance/;39395;;;https://medium.com/openoceanfinance;https://twitter.com/OpenOceanGlobal;2020-12-06T00:00:00.000Z;active
+1262;1inch Liquidity Protocol;https://1inch.exchange;13602;;;;https://twitter.com/1inch;;active
+1267;Wanswap;https://wanswap.finance;9909;;;https://medium.com/wanswap;https://twitter.com/wanswap;2020-12-02T00:00:00.000Z;active
+1275;IDEX BSC;https://exchange.idex.io;49831;;;;;2021-01-31T00:00:00.000Z;active
+1279;MDEX;https://mdex.co;30220;;;https://medium.com/@mdex;https://twitter.com/Mdexswap;2021-01-05T00:00:00.000Z;active
+1281;ApeSwap (BSC);https://dex.apeswap.finance/#/swap;5764;;;https://ape-swap.medium.com/;https://twitter.com/ape_swap;2021-02-12T00:00:00.000Z;active
+1287;Sifchain;https://dex.sifchain.finance/#/stats;34386;;;;https://twitter.com/sifchain;2021-02-17T00:00:00.000Z;active
+1289;WOO Network;https://x.woo.org/;118140;;;https://medium.com/woonetwork;https://twitter.com/WOOnetwork;2019-11-16T00:00:00.000Z;active
+1293;QuickSwap;https://quickswap.exchange/;439799;;;;https://twitter.com/QuickswapDEX;2020-10-07T00:00:00.000Z;active
+1295;LCX Exchange;http://exchange.lcx.com/;15973;;;https://www.lcx.com/insights;https://twitter.com/lcx;2018-03-31T00:00:00.000Z;active
+1301;Perpetual Protocol;https://perp.exchange;10938;;;;https://twitter.com/perpprotocol;2020-12-13T00:00:00.000Z;active
+1302;BakerySwap;https://www.bakeryswap.org/#/home;68275;;;;https://twitter.com/bakery_swap;;active
+1304;Dfyn Network;https://exchange.dfyn.network/;55020;;;https://dfyn-network.medium.com/;https://twitter.com/_dfyn?lang=en;2020-10-05T00:00:00.000Z;active
+1310;Capital DEX;https://capitaldex.exchange;179;;;https://medium.com/@InvestCurio;https://twitter.com/curio_invest;2020-12-24T00:00:00.000Z;active
+1313;BloctoSwap;https://swap.blocto.app;2022;;;https://medium.com/portto;https://twitter.com/BloctoApp;2021-01-22T00:00:00.000Z;active
+1314;Kwikswap;https://app.kwikswap.org/;3131;;;https://medium.com/@kwikswap;https://twitter.com/kwikswapdex;2021-02-27T00:00:00.000Z;active
+1315;Put on your metamask!!!;;;;;;;;active
+1319;DODO (BSC);https://dodoex.io/;;;;https://medium.com/@dodo.in.the.zoo;https://twitter.com/BreederDodo;;active
+1320;SwipeSwap;https://swap.swipe.org;588;;;https://medium.com/Swipe;https://twitter.com/Swipe;2021-03-16T00:00:00.000Z;active
+1325;PlasmaSwap (ETH);https://apy.plasma.finance/#/liquidity-pools;6089;;;https://medium.com/plasmapay;https://twitter.com/0xplasma;2021-02-02T00:00:00.000Z;active
+1327;THORChain (ERC20);https://thorchain.org/;29900;;;;https://twitter.com/THORChain;2021-04-12T00:00:00.000Z;active
+1329;MDEX(BSC);https://mdex.co;;;;https://medium.com/@mdex;https://twitter.com/Mdexswap;2021-04-15T00:00:00.000Z;active
+1333;KyberSwap;https://dmm.exchange;39677;;;https://blog.kyber.network/;https://twitter.com/KyberNetwork;2021-04-04T00:00:00.000Z;active
+1334;Unicly;https://app.unic.ly;5899;;;https://medium.com/unicly;https://twitter.com/uniclyNFT;2021-04-06T00:00:00.000Z;active
+1339;Ubeswap;https://ubeswap.org/;19770;;;;https://twitter.com/ubeswap;2021-02-20T00:00:00.000Z;active
+1340;Pangolin;https://app.pangolin.exchange/#/swap;183334;;;https://pangolindex.medium.com/;https://twitter.com/pangolindex;;active
+1342;Raydium;https://raydium.io/;1050223;;;https://raydium.medium.com/;https://twitter.com/RaydiumProtocol;2021-02-20T00:00:00.000Z;active
+1344;PancakeSwap (V2);https://pancakeswap.finance/;;;;;https://twitter.com/pancakeswap;;active
+1346;PolyZap;https://swap.polyzap.finance/#/swap;83;;;https://t.me/polyzap_finance_news;https://twitter.com/PolyZapFinance;2021-04-27T00:00:00.000Z;active
+1347;ComethSwap;;;;;;;;active
+1348;Uniswap (V3);https://app.uniswap.org/#/swap;1835931;;;https://uniswap.org/blog/launch-uniswap-v3/;https://twitter.com/Uniswap;2021-05-05T00:00:00.000Z;active
+1356;ViperSwap;https://viper.exchange;80913;;;https://venomdao.medium.com/;https://twitter.com/venomdao;2021-03-07T00:00:00.000Z;active
+1359;SpiritSwap;https://app.spiritswap.finance/;64040;;;https://spiritswap.medium.com/;https://twitter.com/Spirit_Swap;2021-04-23T00:00:00.000Z;active
+1371;Globe Derivative Exchange;https://globedx.com/en/;5119;;;;;2021-05-20T00:00:00.000Z;active
+1374;WaultSwap (BSC);https://swap.wault.finance/#/swap;14964;;;https://waultfinance.medium.com/;https://twitter.com/Wault_Finance;2021-04-26T00:00:00.000Z;active
+1375;Binance TR;https://www.trbinance.com/;971474;TR;TRY;;https://twitter.com/BinanceTR;2020-09-08T00:00:00.000Z;active
+1378;Bunicorn;https://bunicorn.exchange;15605;;;https://blog.buni.finance;https://twitter.com/bunicornswap;2021-06-20T00:00:00.000Z;active
+1386;Lydia Finance;https://exchange.lydia.finance/#/swap;8737;;;https://ecency.com/@lydiafinance;https://twitter.com/LydiaFinance;2021-04-19T00:00:00.000Z;active
+1390;Convergence;https://convx.conv.finance/;2254;;;https://medium.com/convergencefinance;https://twitter.com/ConvergenceFin;2021-03-24T00:00:00.000Z;active
+1395;BabySwap;https://babyswap.finance;6513;;;https://medium.com/@babyswap;https://twitter.com/babyswap_bsc;2021-05-31T00:00:00.000Z;active
+1398;CoinSwap Space;https://app.coinswap.space/#/dashboard/pairs;5695;;;https://coinswap.medium.com/;https://twitter.com/CoinSwap_Space;2021-04-29T00:00:00.000Z;active
+1400;THORChain (BEP20);https://thorchain.org/;;;;;https://twitter.com/THORChain;;active
+1401;THORChain (BTC);https://thorchain.org/;;;;;;;active
+1404;Balancer (V2);https://app.balancer.fi/#/trade;62147;;;https://medium.com/balancer-protocol/;https://twitter.com/BalancerLabs;;active
+1405;ProBit;https://www.probit.kr/ko-kr/;236979;KR;;https://blog.naver.com/probit1;;2018-12-31T00:00:00.000Z;active
+1407;Sovryn;https://live.sovryn.app/;47935;;;https://www.sovryn.app/blog/;https://twitter.com/sovrynbtc;2021-03-31T00:00:00.000Z;active
+1408;ShibaSwap;https://www.shibaswap.com;536193;;;;https://twitter.com/shibtoken;2021-07-05T00:00:00.000Z;active
+1410;Nowswap;https://nowswap.org/;92;;;;https://twitter.com/nowswap_org;2021-04-10T00:00:00.000Z;active
+1412;Unifi Protocol DAO;https://unifiprotocol.com/;5989;SG;;https://medium.com/unifiprotocol;https://twitter.com/unifiprotocol;2020-11-11T00:00:00.000Z;active
+1413;SushiSwap( BSC);https://app.sushi.com/swap;335642;;;;;;active
+1414;Kine Protocol;https://kine.io/;2161;;;https://medium.com/@KineProtocol;https://twitter.com/KineProtocol;2021-03-20T00:00:00.000Z;active
+1415;Mars Ecosystem;https://marsecosystem.com;56600;;;;https://twitter.com/MarsEcosystem;2021-06-20T00:00:00.000Z;active
+1416;SushiSwap (Fantom);https://app.sushi.com/swap;;;;;;;active
+1417;SushiSwap (Polygon);https://app.sushi.com/swap;;;;;;;active
+1418;SushiSwap(xDAI);https://app.sushi.com/swap;;;;;;;active
+1420;KuSwap;https://kuswap.finance/#/swap;11619;;;;https://twitter.com/kuswapfinance;2021-06-24T00:00:00.000Z;active
+1426;Orca;https://www.orca.so/pools;205825;;;http://orca-so.medium.com;https://twitter.com/orca_so;2021-02-23T00:00:00.000Z;active
+1428;Balanced;https://stats.balanced.network/;3716;;;https://gov.balanced.network/;https://twitter.com/BalancedDAO;2021-04-25T00:00:00.000Z;active
+1431;KSwap Finance;https://kswap.finance/;844;;;;https://twitter.com/kswap_finance;2021-07-28T00:00:00.000Z;active
+1432;PandaSwap;https://app.pandaex.org/;3155;;;https://docscn.pandaex.org/;;;active
+1433;CherrySwap;https://www.cherryswap.net/#/swap;43094;;;https://cherryswapnet.medium.com/;https://twitter.com/CherryswapNet;;active
+1440;WaultSwap (Polygon);https://polyinfo.wault.finance/home;182;;;;https://twitter.com/Wault_Finance;2021-06-13T00:00:00.000Z;active
+1443;Kalata Protocol;https://www.kalata.io/;8413;;;;;;active
+1444;PolyDEX;https://app.polydex.org/;5402;IN;;https://blog.cryption.network/;https://twitter.com/Polydex_;2021-07-27T00:00:00.000Z;active
+1445;Biswap;https://exchange.biswap.org/#/swap;409048;;;https://biswap-dex.medium.com/;https://twitter.com/Biswap_DEX;2021-05-23T00:00:00.000Z;active
+1447;Osmosis;https://app.osmosis.zone/pools;249824;;;;https://twitter.com/osmosiszone;2021-06-18T00:00:00.000Z;active
+1452;ApolloX;https://www.apollox.com/en;84912;;;;https://twitter.com/ApolloX_com;2021-08-31T00:00:00.000Z;active
+1453;YetiSwap;https://exchange.yetiswap.app;9823;;;;https://twitter.com/YetiSwap?s=09;2021-02-20T00:00:00.000Z;active
+1454;Kava Swap;https://app.kava.io/swap/;26309;;;https://medium.com/kava-labs;https://twitter.com/Kava_Swap;2021-08-29T00:00:00.000Z;active
+1455;SpookySwap;https://spookyswap.finance;417985;;;;https://twitter.com/SpookySwap;2021-04-16T00:00:00.000Z;active
+1456;TraderJoe;https://www.traderjoexyz.com;1268090;;;;https://twitter.com/traderjoe_xyz;2021-07-02T00:00:00.000Z;active
+1457;Jetswap (BSC);https://info.jetswap.finance/home;694;;;https://jetfuelfinance.medium.com/;https://twitter.com/Jetfuelfinance;2021-05-19T00:00:00.000Z;active
+1462;Clipper;https://clipper.exchange/;9120;;;https://medium.com/@clipper_dex;https://twitter.com/Clipper_DEX;2021-07-25T00:00:00.000Z;active
+1463;Jetswap (Polygon);https://info.jetswap.finance/home;4619;;;https://jetfuelfinance.medium.com/;https://twitter.com/Jetfuelfinance;2021-05-18T00:00:00.000Z;active
+1464;SushiSwap (Arbitrum);https://app.sushi.com/swap;;;;;;;active
+1465;FreeRiver;https://freeriver.exchange/#/swap;4090;;;;https://twitter.com/FreeRiverX;2021-08-27T00:00:00.000Z;active
+1466;ApeSwap.Finance (Polygon);https://apeswap.finance/;173642;;;https://ape-swap.medium.com/;https://twitter.com/ape_swap;2021-06-20T00:00:00.000Z;active
+1467;MoonSwap(Moonriver);https://info.moonswap.in/home;1146;;;;https://twitter.com/MoonSwapDEX;2021-08-28T00:00:00.000Z;active
+1469;DODO (Polygon);https://app.dodoex.io;123327;;;https://dodo-in-the-zoo.medium.com/;https://twitter.com/BreederDodo;2020-09-14T00:00:00.000Z;active
+1475;PartySwap;https://app.partyswap.io/;2845;;;;https://twitter.com/partyswapdex;2021-09-13T00:00:00.000Z;active
+1476;Jswap;https://app.jswap.finance/#/swap;18924;;;;;;active
+1477;SushiSwap (Harmony);https://app.sushi.com/swap;;;;;;;active
+1478;Uniswap (V3) (Arbitrum);https://app.uniswap.org/#/swap;;;;https://uniswap.org/blog/launch-uniswap-v3/;https://twitter.com/Uniswap;;active
+1479;KyberSwap (Polygon);https://dmm.exchange;;;;https://blog.kyber.network/;https://twitter.com/KyberNetwork;;active
+1480;KyberSwap (BSC);https://dmm.exchange;;;;https://blog.kyber.network/;https://twitter.com/KyberNetwork;;active
+1481;KyberSwap (Avalanche);https://dmm.exchange;;;;https://blog.kyber.network/;https://twitter.com/KyberNetwork;;active
+1482;Solarbeam;https://solarbeam.io/;46398;;;https://solarbeam.medium.com/;https://twitter.com/solarbeamio;2021-08-31T00:00:00.000Z;active
+1483;AutoShark Finance;https://autoshark.info/;1557;;;https://medium.com/autosharkfin;https://twitter.com/AutoSharkFin;2021-09-16T00:00:00.000Z;active
+1484;DODO (Arbitrum);https://app.dodoex.io;115422;;;https://dodo-in-the-zoo.medium.com/;https://twitter.com/BreederDodo;2020-08-14T00:00:00.000Z;active
+1485;MCDEX;https://app.mcdex.io/trade/00001/?chainId=42161;6642;;;https://mcdex.medium.com/;https://twitter.com/MonteCarloDEX;2019-11-30T00:00:00.000Z;active
+1486;KAIDEX;https://kaidex.io/;24535;VN;;;https://twitter.com/kardiachain;2021-05-05T00:00:00.000Z;active
+1488;Aldrin;https://dex.aldrin.com/;73996;;;;https://twitter.com/Aldrin_Exchange;2021-05-31T00:00:00.000Z;active
+1489;Planet Finance;https://planetfinance.io/;17939;;;https://medium.com/@planetfinanceio;https://twitter.com/planet_finance;2021-06-10T00:00:00.000Z;active
+1490;PlasmaSwap (BSC);https://apy.plasma.finance/#/liquidity-pools;;;;https://medium.com/plasmapay;https://twitter.com/0xplasma;;active
+1491;PlasmaSwap (Polygon);https://apy.plasma.finance/#/liquidity-pools;;;;https://medium.com/plasmapay;https://twitter.com/0xplasma;;active
+1493;ZilSwap;https://zilswap.io;51531;;;https://docs.zilswap.io/;https://twitter.com/ZilSwap;2020-10-04T00:00:00.000Z;active
+1494;SiennaSwap;https://secretanalytics.xyz/siennaswap;2493;;;;https://twitter.com/sienna_network;2021-10-06T00:00:00.000Z;active
+1496;Dinosaur Eggs;https://info.dsgmetaverse.com/#/home;1271;;;;https://twitter.com/dsgmetaverse;2021-09-30T00:00:00.000Z;active
+1499;Deri Protocol;https://www.deri.finance/;13706;;;https://deri-protocol.medium.com/;https://twitter.com/DeriProtocol;2021-02-07T00:00:00.000Z;active
+1505;DeFi Kingdoms;https://defikingdoms.com/;210274;;;;https://twitter.com/DefiKingdoms;2021-08-21T00:00:00.000Z;active
+1507;BitCoke;https://www.bitcoke.com;439;;;https://medium.com/@BitCoke;https://twitter.com/BitCokedotcom;2019-08-19T00:00:00.000Z;active
+1510;Ref Finance;https://www.ref.finance/;14154;;;;https://twitter.com/finance_ref;2021-03-09T00:00:00.000Z;active
+1511;PaintSwap;https://exchange.paintswap.finance/#/swap;3618;;;https://medium.com/paint-swap-finance;https://twitter.com/paint_swap;2021-05-19T00:00:00.000Z;active
+1513;Elk.Finance (AVAX);https://app.elk.finance;34942;;;https://elk-finance.medium.com/;https://twitter.com/elk_finance;2021-03-17T00:00:00.000Z;active
+1515;Wagyuswap;https://exchange.wagyuswap.app/info;165241;;;;https://twitter.com/WagyuSwap_app;2021-10-31T00:00:00.000Z;active
+1516;SPHYNX SWAP;https://thesphynx.co;18130;;;;;;active
+1519;CoinSwap.com (BSC);https://bsc.coinswap.com/#/trade/swap?lang=en;1493;;;;https://twitter.com/Coinswap_;2021-09-12T00:00:00.000Z;active
+1521;MojitoSwap;https://app.mojitoswap.finance/#/farm;24021;;;;https://twitter.com/MojitoSwap;2021-10-08T00:00:00.000Z;active
+1522;DFX Finance(Ethereum);https://app.dfx.finance/pools;2779;;;;https://twitter.com/DFXFinance;2021-06-08T00:00:00.000Z;active
+1526;Elk.Finance (Polygon);https://app.elk.finance;;;;https://elk-finance.medium.com/;https://twitter.com/elk_finance;2021-03-17T00:00:00.000Z;active
+1527;Elk.Finance (BSC);https://app.elk.finance;;;;https://elk-finance.medium.com/;https://twitter.com/elk_finance;2021-03-17T00:00:00.000Z;active
+1529;CRODEX;https://charts.crodex.app/;27660;;;;https://twitter.com/crodexapp;2021-11-07T00:00:00.000Z;active
+1530;VVS Finance;https://vvs.finance/;573233;;;https://medium.com/vvs-finance;https://twitter.com/VVS_finance;2021-11-09T00:00:00.000Z;active
+1534;ApolloX DEX;https://www.apollox.finance/en/futures/BTCUSDT;10008;;;;https://twitter.com/ApolloX_com;2021-11-14T00:00:00.000Z;active
+1536;Maiar Exchange;https://maiar.exchange;1411594;;;https://elrond.com/blog/maiar-exchange/;https://twitter.com/MaiarExchange;2021-04-08T00:00:00.000Z;active
+1540;SushiSwap (Celo);https://app.sushi.com/swap;;;;;;;active
+1543;Katana;https://katana.roninchain.com/#/swap;686919;;;;;;active
+1544;OolongSwap;https://oolongswap.com/#/swap;35834;;;;https://twitter.com/oolongswap;2021-11-03T00:00:00.000Z;active
+1547;CronaSwap;https://cronaswap.org;;;;;https://twitter.com/cronaswap;2021-11-11T00:00:00.000Z;active
+1561;Bit2Me;https://trade.bit2me.com/exchange/BTC-EUR;1949;;;https://medium.com/@bit2me;https://twitter.com/bit2me;2014-07-22T00:00:00.000Z;active
+1563;BTCEX;https://www.btcex.com;592601;;;https://blog.naver.com/btcex;https://twitter.com/BTCEX_exchange;2021-06-29T00:00:00.000Z;active
+1567;Uniswap (V3) (Polygon);https://app.uniswap.org/#/swap;;;;https://uniswap.org/blog/launch-uniswap-v3/;https://twitter.com/Uniswap;2021-12-23T00:00:00.000Z;active

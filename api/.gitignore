@@ -1,0 +1,16 @@
+build/
+node_modules/
+
+# for local testing purposes
+src/dev.ts
+
+# local history
+.history/
+
+# code coverage dashboard
+coverage
+.nyc_output
+
+# dotenv environment variables file
+.env
+.env.test

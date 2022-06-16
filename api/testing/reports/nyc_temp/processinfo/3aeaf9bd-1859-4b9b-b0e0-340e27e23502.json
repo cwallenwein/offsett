@@ -1,0 +1,1 @@
+{"parent":null,"pid":7216,"argv":["/usr/local/bin/node","/usr/local/bin/npm","run","test"],"execArgv":[],"cwd":"/workspaces/backend","time":1655382552012,"ppid":7138,"coverageFilename":"/workspaces/backend/testing/reports/nyc_temp/3aeaf9bd-1859-4b9b-b0e0-340e27e23502.json","externalId":"","uuid":"3aeaf9bd-1859-4b9b-b0e0-340e27e23502","files":[]}

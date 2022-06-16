@@ -1,0 +1,18 @@
+{
+  "name": "Node.js",
+  "dockerFile": "Dockerfile",
+  "appPort": [3001],
+  "runArgs": ["-u", "node"],
+  "extensions": [
+    "ms-azuretools.vscode-docker",
+    "esbenp.prettier-vscode",
+    "gruntfuggly.todo-tree",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "christian-kohler.path-intellisense"
+  ],
+  "remoteUser": "root",
+  "settings": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}

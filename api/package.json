@@ -1,0 +1,61 @@
+{
+  "name": "backend-offsett.co",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "scripts": {
+    "start": "tsc && node build/index.js",
+    "build": "tsc",
+    "dev": "tsc && node --trace-warnings build/dev.js",
+    "test": "env TS_NODE_COMPILER_OPTIONS='{\"module\": \"commonjs\" }' mocha -r ts-node/register 'testing/tests/**/*.ts'",
+    "test:coverage": "nyc npm run test"
+  },
+  "dependencies": {
+    "axios": "^0.21.4",
+    "convert-csv-to-json": "^1.3.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jwt-simple": "^0.5.6",
+    "pino": "^7.6.1",
+    "pino-pretty": "^7.3.0",
+    "wallet-address-validator": "^0.2.4"
+  },
+  "devDependencies": {
+    "@fast-csv/parse": "^4.3.6",
+    "@istanbuljs/nyc-config-typescript": "^1.0.2",
+    "@types/chai": "^4.3.0",
+    "@types/chai-http": "^4.2.0",
+    "@types/cors": "^2.8.12",
+    "@types/express": "^4.17.13",
+    "@types/mocha": "^9.0.0",
+    "@typescript-eslint/parser": "^3.10.1",
+    "chai": "^4.3.4",
+    "chai-http": "^4.3.0",
+    "eslint": "^6.8.0",
+    "mocha": "^9.1.3",
+    "mockdate": "^3.0.5",
+    "prettier": "^2.4.1",
+    "prettier-eslint": "^13.0.0",
+    "sinon": "^12.0.1",
+    "ts-node": "^10.4.0",
+    "tslint": "^6.1.3",
+    "typescript": "^4.5.4"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Offsett-co/backend.git"
+  },
+  "author": "Christian Wallenwein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Offsett-co/backend/issues"
+  },
+  "homepage": "https://github.com/Offsett-co/backend#readme"
+}
