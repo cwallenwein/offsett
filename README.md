@@ -1,4 +1,4 @@
-# Offsett
+# Offsett 🌳🧮
 A RESTful carbon footprint calculator for Bitcoin :deciduous_tree:
 
 This repo consists of the API and an example website based on the API that people can use to calculate the carbon footprint of their Bitcoin transactions.
