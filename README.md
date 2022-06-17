@@ -10,8 +10,6 @@ A RESTful carbon footprint calculator for Bitcoin :deciduous_tree:
 - [Problem](#problem)
 - [Solution](#solution)
 - [Tips](#tips)
-- [API](#api)
-- [Error Codes](#error-codes)
 
 This repo consists of the API and an example website based on the API that people can use to calculate the carbon footprint of their Bitcoin transactions.
 
@@ -48,17 +46,9 @@ estimate the carbon footprint of a single Bitcoin transaction, just knowing the 
 
 **2xx** Request was handled successfully
 
-*200 - OK*
-
-*201 - Created*
-
 **4xx** Request failed because of user
 
-These are errors because of users
-
-**5xx** Request failed because of Offsett
-
-These are operational errors
+**5xx** Request failed because of errors in the API
 
 
 # Example Website
