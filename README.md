@@ -1,6 +1,8 @@
 # Offsett
 A RESTful carbon footprint calculator for Bitcoin :deciduous_tree:
 
+This repo consists of the API and an example website based on the API that people can use to calculate the carbon footprint of their Bitcoin transactions.
+
 # Table of Contents
 - [API](#api)
   - [Getting started](#getting-started-wapi)
@@ -11,7 +13,7 @@ A RESTful carbon footprint calculator for Bitcoin :deciduous_tree:
 - [Solution](#solution)
 - [Tips](#tips)
 
-This repo consists of the API and an example website based on the API that people can use to calculate the carbon footprint of their Bitcoin transactions.
+
 
 # API
 This is a RESTful API that returns JSON-encoded responses. It is Node.js + Typescript based, uses Chai and Mocha for testing and Istanbul for tracking code coverage.
