@@ -9,10 +9,10 @@ This repo consists of the API and an example website based on the API that peopl
   - [Endpoints](#endpoints)
   - [HTTP Status Codes](#http-status-codes)
 - [Example Website](#example-website)
+  - [Getting started](#getting-started-wwebsite)
 - [Problem](#problem)
 - [Solution](#solution)
 - [Tips](#tips)
-
 
 
 # API
@@ -54,7 +54,14 @@ estimate the carbon footprint of a single Bitcoin transaction, just knowing the 
 
 
 # Example Website
-The example website is React.js + ant.design + Typescript based.
+The example website is based on React React APP (React.js), ant.design and Typescript.
+
+## Getting started w/Website
+Install dependencies: `npm install`
+
+Start website: `npm start`
+
+Build website: `npm run build`
 
 
 # Problem
